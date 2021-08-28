@@ -4,6 +4,7 @@ public class Pet {
 
     private String name;
     private Integer age;
+    private String addr;
 
     public Pet(String name) {
         this.name = name;
