@@ -7,6 +7,7 @@ public class Pet {
     private String addr;
     private String gir4;
     private String hot_fix_commit2;
+    private String hot_fix;
 
     public Pet(String name) {
         this.name = name;
