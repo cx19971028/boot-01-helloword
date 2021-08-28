@@ -6,6 +6,7 @@ public class Pet {
     private Integer age;
     private String addr;
     private String gir4;
+    private String hot_fix_commit2;
 
     public Pet(String name) {
         this.name = name;
