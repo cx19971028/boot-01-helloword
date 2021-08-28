@@ -9,6 +9,7 @@ public class Pet {
     private String hot_fix_commit2;
     private String hot_fix;
     private String getHot_fix;
+    private String pull_test;
 
     public Pet(String name) {
         this.name = name;
